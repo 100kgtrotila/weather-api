@@ -6,13 +6,10 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 > A high-performance RESTful API that fetches weather data and implements intelligent caching.
-
-## Project URL
-https://roadmap.sh/projects/weather-api-wrapper-service
 ---
 
 ## 📖 About
-This project is a solution to the **[Weather API](https://roadmap.sh/projects/weather-api)** challenge on [roadmap.sh](https://roadmap.sh).
+This is a solution to the [Weather API](https://roadmap.sh/projects/weather-api) project on roadmap.sh.
 
 It is a RESTful API built with **Flask** that integrates with a 3rd party service (Visual Crossing) to provide weather data. Key focus areas include performance optimization via **Redis caching**, request rate limiting, and secure environment configuration.
 
