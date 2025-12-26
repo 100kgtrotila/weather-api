@@ -8,7 +8,7 @@
 > A high-performance RESTful API that fetches weather data and implements intelligent caching.
 
 ## Project URL
-https://github.com/100kgtrotila/weather-api
+https://roadmap.sh/projects/weather-api-wrapper-service
 ---
 
 ## 📖 About
